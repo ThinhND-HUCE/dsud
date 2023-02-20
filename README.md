@@ -1,11 +1,11 @@
-## Chú ý:
-   * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
-   * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
-   * Link tải **Python** và IDE
+## Attention:
+   * Students come in to read every day, especially **01 day** before class / test / exam
+   * Read the **outline** carefully to keep track of your study /test / exam progress
+   * Link to download **Python** and IDE
 <table align="center">
   <tr>
-    <th>Trình thông dịch</th>
-    <th>Trình soạn thảo</th>
+    <th>Interpreter</th>
+    <th>Editor</th>
   </tr>
   <tr>
     <td><a href="https://www.python.org/"> Python </a></td>
@@ -13,4 +13,4 @@
   </tr>
 </table>
 
-  * Lớp trưởng in file chứa mã lệnh cho buổi học tương ứng, phát cho mọi sinh viên của lớp. Tìm trong thư mục `Code`
+  * The class president prints the file containing the code for the corresponding lesson and distributes it to all students of the class. Search in the `Code` folder
