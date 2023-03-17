@@ -45,8 +45,16 @@ A lecturer of Department of Applied Mathematics.
     <th>Final exam</th>
   </tr>
   <tr>
-    <td>10%</td>
     <td>20%</td>
-    <td>20%</td>
+    <td>40%</td>
+    <td>40%</td>
   </tr>
 </table>
+
+Tests:
+  * **Test 1:** Generating Function, Recurrence Relations.
+  * **Test 2:** Modular Arithmetic, Groups, Encryption.
+  * **Test 3:** Symmetry, Polya Enumeration.
+
+### 9. Content
+
