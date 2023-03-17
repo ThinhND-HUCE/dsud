@@ -15,4 +15,4 @@
 
   * The class president prints the file containing the code for the corresponding lesson and distributes it to all students of the class. Search in the `Code` folder
 
-  * Read section 6 in the outline file to see the details of exam structure.
+  * Read section 6 in the outline file to see the details of **exam structure**.
