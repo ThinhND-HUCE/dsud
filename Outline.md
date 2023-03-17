@@ -13,3 +13,40 @@ A lecturer of Department of Applied Mathematics.
   * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - An Applied Introduction_, 5ed, 2004, 992p (chap 9, 10, 16).
   * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - Instructor's Solutions Manual_, 5ed, 2004, 465p.
 
+### 5. Specific course information:
+  * Catalog Description: Languages, generating functions, recurrence relations, optimization, rings, groups, coding theory, and Polya theory.
+  * Prerequisites: Math 301: Discrete Mathematics (Minimum grade: C).
+  * Designation: Required.
+
+### 6. Specific goals for the course outcomes:
+  * **Course Outcomes:** Upon course completion the student should be able to demonstrate:
+    + perform addition and subtraction of sequences and abstract power series.
+    + use basic ordinary and exponential generating functions to solve counting problems.
+    + write recurrence relations to model counting problems, and solve linear recurrence relations.
+    + define the four basic properties of an abstract group, determine whether a set and operation satisfy these properties, and use them to prove other facts about groups.
+    + perform calculations using modular arithmetic, including finding multiplicative inverses and solving simultaneous linear equations.
+    + understand the theoretical basis for public key encryption, and apply (simplified versions of) both Rabin's method and RSA algorithms.
+    + apply Polya enumeration methods to examples involving symmetry groups.
+
+  * **Relationship between Course Outcomes and Program Outcomes**
+    + The ABET/CAC criteria for computer science require the study of discrete mathematics. The BSCS program requires Math 301 and 302 to satisfy this expectation.
+    + All eight course outcomes contribute to program outcomes (a) and (j).
+
+### 7. List of Leture Topics:
+  * Counting.
+  * Introductory Number Theory.
+  * Abstract Algebra.
+
+### 8. Test
+<table align="center">
+  <tr>
+    <th>Homework</th>
+    <th>Test</th>
+    <th>Final exam</th>
+  </tr>
+  <tr>
+    <td>10%</td>
+    <td>20%</td>
+    <td>20%</td>
+  </tr>
+</table>
