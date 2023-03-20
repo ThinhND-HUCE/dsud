@@ -1,5 +1,5 @@
-# COURSE OUTLINE
-## 1. Course name and number:
+# ĐỀ CƯƠNG MÔN HỌC
+## 1. Tên học phần:
 Đại số hiện đại ứng dụng, _Mã:_ Toán 302
 
 ## 2. Số tín chỉ:
