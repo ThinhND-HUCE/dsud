@@ -1,11 +1,11 @@
-## Attention:
-   * Students come in to read every day, especially **01 day** before class / test / exam
-   * Read the **outline** carefully to keep track of your study /test / exam progress
-   * Link to download **Python** and IDE
+# Chú ý:
+   * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 day** trước  buổi học / kiểm tra / thi
+   * Đọc kỹ **đề cương** để xem tiến độ học / kiểm tra / thi
+   * Link tải
 <table align="center">
   <tr>
-    <th>Interpreter</th>
-    <th>Editor</th>
+    <th>Trình thông dịch</th>
+    <th>Trình soạn thảo</th>
   </tr>
   <tr>
     <td><a href="https://www.python.org/"> Python </a></td>
@@ -13,6 +13,6 @@
   </tr>
 </table>
 
-  * The class president prints the file containing the code for the corresponding lesson and distributes it to all students of the class. Search in the `Code` folder
+  * Lớp trưởng in file chứa code cho buổi học tương ứng và phát cho các bạn. Tìm trong thư mục `Code`
 
-  * Read section 6 in the outline file to see the details of **exam structure**.
+  * Đọc phần 6 trong file `Đề cương.md` để biết chi tiết về cấu trúc đề thi
