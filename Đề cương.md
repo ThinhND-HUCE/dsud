@@ -1,60 +1,60 @@
 # COURSE OUTLINE
-### 1. Course name and number:
-Applied Modern Algebra, Math 302.
+## 1. Course name and number:
+Đại số hiện đại ứng dụng, _Mã:_ Toán 302
 
-### 2. Credits:
-3, 3 hours lecture.
+## 2. Số tín chỉ:
+3
 
-### 3. Course Instructor:
-A lecturer of Department of Applied Mathematics.
+## 3. Giảng viên:
+Giảng viên Bộ môn Toán ứng dụng
 
-### 4. Textbook:
-  * Edward R. Scheinerman, _Mathamatics: A Discrete Introduction_, 3ed, 2012, 506p (chapter 4 section 23; chap 5 sec 27, 28; chap 7, 8).
-  * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - An Applied Introduction_, 5ed, 2004, 992p (chap 9, 10, 16).
-  * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - Instructor's Solutions Manual_, 5ed, 2004, 465p.
+## 4. Textbook:
+  * Edward R. Scheinerman, _Mathamatics: A Discrete Introduction_, 3ed, 2012, 506p (chương 4 mục 23; chương 5 mục 27, 28; chương 7, 8)
+  * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - An Applied Introduction_, 5ed, 2004, 992p (chương 9, 10, 16)
+  * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - Instructor's Solutions Manual_, 5ed, 2004, 465p
 
-### 5. Specific course information:
-  * Catalog Description: Languages, generating functions, recurrence relations, optimization, rings, groups, coding theory, and Polya theory.
-  * Prerequisites: Math 301: Discrete Mathematics (Minimum grade: C).
-  * Designation: Required.
+## 5. Thông tin chi tiết:
+  * **Từ khóa:** ngôn ngữ, hàm sinh, đệ quy, tối ưu, vành, nhóm, lý thuyết mã, định lý Polya
+  * **Môn tiên quyết:** Toán rời rạc (Toán 301, điểm tối thiểu: C)
+  * **Chỉ định:** bắt buộc
 
-### 6. Specific goals for the course outcomes:
-  * **Course Outcomes:** Upon course completion the student should be able to demonstrate:
-    + perform addition and subtraction of sequences and abstract power series.
-    + use basic ordinary and exponential generating functions to solve counting problems.
-    + write recurrence relations to model counting problems, and solve linear recurrence relations.
-    + define the four basic properties of an abstract group, determine whether a set and operation satisfy these properties, and use them to prove other facts about groups.
-    + perform calculations using modular arithmetic, including finding multiplicative inverses and solving simultaneous linear equations.
-    + understand the theoretical basis for public key encryption, and apply (simplified versions of) both Rabin's method and RSA algorithms.
-    + apply Polya enumeration methods to examples involving symmetry groups.
+## 6. Mục tiêu cụ thể:
+  * **Đầu ra học phần:** Kết thúc học phần, sinh viên có thể:
+    + cộng, trừ dãy, chuỗi lũy thừa trừu tượng
+    + dùng hàm sinh thường và hàm sinh mũ để giải bài toán đếm
+    + dùng đệ quy để mô hình hóa bài toán đếm, giải hệ thức đệ quy tuyến tính
+    + định nghĩa 4 thuộc tính của nhóm trừu tượng, xác định một tập kèm phép toán có thỏa mãn thuộc tính này không, chứng minh tính chất nào đó của nhóm
+    + thực hiện phép tính đồng dư, tìm nghịch đảo (theo phép nhân đồng dư) và giải hệ phương trình đồng dư tuyến tính
+    + hiểu cơ sở lý thuyết của mã hóa khóa công khai, ứng dụng phương pháp Rabin và thuật toán RSA (dạng đơn giản)
+    + dùng phương pháp liệt kê Polya đối với ví dụ về nhóm đối xứng
 
-  * **Relationship between Course Outcomes and Program Outcomes**
-    + The ABET/CAC criteria for computer science require the study of discrete mathematics. The BSCS program requires Math 301 and 302 to satisfy this expectation.
-    + All eight course outcomes contribute to program outcomes (a) and (j).
+  * **Quan hệ giữa học phần và chương trình học**
+    + Tiêu chuẩn ABET/CAC cho khoa học máy tính đòi hỏi nghiên cứu toán rời rạc. Chương trình BSCS yêu cầu Toán 301 và 302
+    + 7 đầu ra học phần đóng góp vào đầu ra khóa học (a) và (j)
 
-### 7. List of Leture Topics:
-  * Counting.
-  * Introductory Number Theory.
-  * Abstract Algebra.
+## 7. Chủ đề bài giảng:
+  * Phép đếm
+  * Nhập môn lý thuyết số.
+  * Đại số trừu tượng.
 
-### 8. Test
+## 8. Kiểm tra
 <table align="center">
   <tr>
-    <th>Homework</th>
-    <th>Test</th>
-    <th>Final exam</th>
+    <th>Bài tập về nhà</th>
+    <th>Kiểm tra</th>
+    <th>Thi</th>
   </tr>
   <tr>
     <td>20%</td>
-    <td>40%</td>
-    <td>40%</td>
+    <td>30%</td>
+    <td>50%</td>
   </tr>
 </table>
 
-Tests:
-  * **Test 1:** Generating Function, Recurrence Relations.
-  * **Test 2:** Modular Arithmetic, Groups, Encryption.
-  * **Test 3:** Symmetry, Polya Enumeration.
+Các bài kiểm tra:
+  * **Bài kiểm tra 1:** Hàm sinh, Đệ quy
+  * **Bài kiểm tra 2:** Đồng dư, Nhóm, Mã hóa
+  * **Bài kiểm tra 3:** Nhóm đối xứng, Liệt kê Polya
 
-### 9. Content
+## 9. Nội dung
 
