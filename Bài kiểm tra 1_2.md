@@ -1,3 +1,6 @@
+# Hình thức
+Sinh viên được sử dụng máy tính cá nhân
+
 # Nội dung bài kiểm tra số 1 / 2
 ## Hàm sinh
 * Cho dãy $(a_n)$ phụ thuộc $n$, tìm hàm sinh $f(x)$ sinh dãy $(a_n)$
