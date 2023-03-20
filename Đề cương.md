@@ -52,9 +52,9 @@ Giảng viên Bộ môn Toán ứng dụng
 </table>
 
 Các bài kiểm tra:
-  * **Bài kiểm tra 1:** Hàm sinh, Đệ quy
-  * **Bài kiểm tra 2:** Đồng dư, Nhóm, Mã hóa
-  * **Bài kiểm tra 3:** Nhóm đối xứng, Liệt kê Polya
+  * **Bài 1:** Hàm sinh, Đệ quy
+  * **Bài 2:** Đồng dư, Nhóm, Mã hóa
+  * **Bài 3:** Nhóm đối xứng, Liệt kê Polya
 
 ## 9. Nội dung
 
