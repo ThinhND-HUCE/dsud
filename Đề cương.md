@@ -8,7 +8,7 @@
 ## 3. Giảng viên:
 Giảng viên Bộ môn Toán ứng dụng
 
-## 4. Textbook:
+## 4. Giáo trình:
   * Edward R. Scheinerman, _Mathamatics: A Discrete Introduction_, 3ed, 2012, 506p (chương 4 mục 23; chương 5 mục 27, 28; chương 7, 8)
   * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - An Applied Introduction_, 5ed, 2004, 992p (chương 9, 10, 16)
   * Ralph P. Grimaldi, _Discrete and Combinatorial Mathematics - Instructor's Solutions Manual_, 5ed, 2004, 465p
