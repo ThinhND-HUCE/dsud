@@ -4,6 +4,13 @@
   * Không dùng tài liệu,  được sử dụng máy tính của phòng máy
 
 # Nội dung
+<ol>
+ <li>(Chương 8)
+  Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật.
+ </li>
+ <li></li>
+ <li></li>
+</ol>
   * Một số bài tập **kinh điển** trong đề thi đã được cố định sẵn, sinh viên cần **học thuộc** cách trình bày / chứng minh
     + Ký hiệu số **Catalan** $c_n$ là số cách tính tích các ma trận $A_0 A_1 A_2\ldots A_n$. Lập hệ thức đệ quy cho dãy $(c_n)$ và dùng phương pháp hàm sinh để giải $c_n$
     + Phát biểu, chứng minh định lý **Lamé**
