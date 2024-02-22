@@ -5,10 +5,11 @@
 
 # Nội dung
 <ol>
- <li>(Chương 8)
+ <li>(Chương 8, ví dụ 8.8)
   Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật.
  </li>
- <li></li>
+ <li>Chương 8, ví dụ 8.11</li>
+ <li>Chương 8, ví dụ 8.12</li>
  <li></li>
 </ol>
   * Một số bài tập **kinh điển** trong đề thi đã được cố định sẵn, sinh viên cần **học thuộc** cách trình bày / chứng minh
