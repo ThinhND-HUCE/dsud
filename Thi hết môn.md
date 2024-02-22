@@ -10,7 +10,9 @@
  </li>
  <li>Chương 8, ví dụ 8.11</li>
  <li>Chương 8, ví dụ 8.12</li>
- <li></li>
+ <li>Chương 9, ví dụ 9.8</li>
+ <li>Chương 9, ví dụ 9.21</li>
+ <li>Chương 9, ví dụ 9.30</li>
 </ol>
   * Một số bài tập **kinh điển** trong đề thi đã được cố định sẵn, sinh viên cần **học thuộc** cách trình bày / chứng minh
     + Ký hiệu số **Catalan** $c_n$ là số cách tính tích các ma trận $A_0 A_1 A_2\ldots A_n$. Lập hệ thức đệ quy cho dãy $(c_n)$ và dùng phương pháp hàm sinh để giải $c_n$
