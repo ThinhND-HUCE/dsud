@@ -72,12 +72,14 @@
   </ol>
  </li>
 
- <li><b>(Chương 8)</b>
-  
+ <li><b>(Chương 9)</b>
+  Giải hệ thức đệ quy $a_n = 3 a_{n-1} - 2 a_{n-2}$ với $a_0 = -1$, $a_1 = 2$
+ </li>
+
+ <li><b>(Chương 9)</b>
+  Giải hệ thức chia để trị $f\left( n \right) = 2f\left( {\dfrac{n}{3}} \right) + {n^2}$ với $f(1) = 4$
  </li>
  
- <li></li>
- <li></li>
  <li><b>(Mã hóa Rabin)</b>
   <ol>
    <li>Số hóa tin nhắn bằng mã Cipher / ASCII thành $M$. Với khóa công khai $n$, tìm tin nhắn mã hóa $N$</li>
