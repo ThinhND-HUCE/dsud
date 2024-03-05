@@ -6,13 +6,24 @@
 # Nội dung
 <ol>
  <li><b>(Chương 8, ví dụ 8.8)</b>
-  Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật.
+  Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật
  </li>
+ 
  <li><b>(Chương 8, ví dụ 8.11)</b>
+  Dùng hàm sinh đếm số phân hạng của số nguyên dương $n$
  </li>
+ 
  <li><b>(Chương 8, ví dụ 8.12)</b>
+  Dùng hàm sinh liệt kê các phân hạng đối xứng của số nguyên dương $n$
  </li>
+ 
  <li><b>(Chương 9, ví dụ 9.8)</b>
+  Bài toán <b>tháp Hà Nội</b>:
+  <ol>
+   <li>Trình bày nội dung bài toán</li>
+   <li>Liệt kê các bước chuyển cho hệ $n$ đĩa từ cột A sang cột B, với $n = 2, 3, 4$</li>
+   <li>Đặt $a_n$ là số bước chuyển ít nhất cho hệ $n$ đĩa. Lập hệ thức đệ quy và giải $a_n$</li>
+  </ol>
  </li>
  <li><b>(Chương 9, ví dụ 9.21)</b>
  </li>
