@@ -73,7 +73,7 @@
  </li>
 
  <li><b>(Chương 9)</b>
-  Giải hệ thức đệ quy $a_n = 3 a_{n-1} - 2 a_{n-2}$ với $a_0 = -1$, $a_1 = 2$
+  Giải hệ thức đệ quy $a_n = 3 a_{n-1} - 2 a_{n-2} + n$ với $a_0 = -1$, $a_1 = 2$
  </li>
 
  <li><b>(Chương 9)</b>
