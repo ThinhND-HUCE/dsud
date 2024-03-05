@@ -34,6 +34,7 @@
   <ol>
    <li>Trình bày các bước, mã Python của thuật toán</li>
    <li>Đặt $f(n)$ là số chu trình tối giản để xắp xếp dãy cỡ $n$. Lập hệ thức chia để trị và giải $f(n)$</li>
+   <li>Minh họa thuật toán với một dãy cụ thể cỡ $n$ từ 10 đến 16</li>
   </ol>
  </li>
 </ol>
