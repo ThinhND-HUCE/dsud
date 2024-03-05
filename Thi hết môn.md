@@ -8,15 +8,15 @@
  <li><b>(Chương 8, ví dụ 8.8)</b>
   Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật.
  </li>
- <li><b>Chương 8, ví dụ 8.11</b>
+ <li><b>(Chương 8, ví dụ 8.11)</b>
  </li>
- <li><b>Chương 8, ví dụ 8.12</b>
+ <li><b>(Chương 8, ví dụ 8.12)</b>
  </li>
- <li><b>Chương 9, ví dụ 9.8</b>
+ <li><b>(Chương 9, ví dụ 9.8)</b>
  </li>
- <li><b>Chương 9, ví dụ 9.21</b>
+ <li><b>(Chương 9, ví dụ 9.21)</b>
  </li>
- <li><b>Chương 9, ví dụ 9.30</b>
+ <li><b>(Chương 9, ví dụ 9.30)</b>
  </li>
 </ol>
   * Một số bài tập **kinh điển** trong đề thi đã được cố định sẵn, sinh viên cần **học thuộc** cách trình bày / chứng minh
