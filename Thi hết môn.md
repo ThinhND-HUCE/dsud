@@ -1,7 +1,7 @@
 # Hình thức:
   * Tự luận
-  * _Thời gian:_ 60 phút
-  * Không dùng tài liệu,  được sử dụng máy tính của phòng máy
+  * _Thời gian:_ 60-75 phút
+  * Không dùng tài liệu, được sử dụng phần mềm theo chỉ định trên máy tính của phòng máy
 
 # Nội dung
 <ol>
