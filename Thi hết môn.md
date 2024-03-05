@@ -65,7 +65,7 @@
  </li>
  
  <li><b>(Chương 8)</b>
-  Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh mũ bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
+  Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh mũ ứng với $f\left( x \right) = \sqrt {1 - 2x} $.
   <ol>
    <li>Tính $a_3$</li>
    <li>Xác định $a_n$</li>
