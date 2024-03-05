@@ -17,8 +17,7 @@
   Dùng hàm sinh liệt kê các phân hạng đối xứng của số nguyên dương $n$
  </li>
  
- <li><b>(Chương 9, ví dụ 9.8)</b>
-  Bài toán <b>tháp Hà Nội</b>:
+ <li>Bài toán <b>tháp Hà Nội</b>:
   <ol>
    <li>Trình bày nội dung bài toán</li>
    <li>Liệt kê các bước chuyển cho hệ $n$ đĩa từ cột A sang cột B, với $n = 2, 3, 4$</li>
@@ -31,7 +30,11 @@
   <li>Đặt $a_n$ là số phép toán số học và so sánh được dùng để tính $F_n$. Lập hệ thức đệ quy và giải $a_n$</li>
   </ol>
  </li>
- <li><b>(Chương 9, ví dụ 9.30)</b>
+ <li>Thuật toán <b>sắp xếp trộn</b>
+  <ol>
+   <li>Trình bày các bước, mã Python của thuật toán</li>
+   <li>Đặt $f(n)$ là số chu trình tối giản để xắp xếp dãy cỡ $n$. Lập hệ thức chia để trị và giải $f(n)$</li>
+  </ol>
  </li>
 </ol>
   * Một số bài tập **kinh điển** trong đề thi đã được cố định sẵn, sinh viên cần **học thuộc** cách trình bày / chứng minh
