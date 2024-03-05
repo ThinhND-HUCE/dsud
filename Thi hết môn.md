@@ -48,7 +48,11 @@
 
 # Phần bài tập (6-7đ)
 <ol>
- <li></li>
+ <li>
+  <ol>
+    <li>Lập và xác định hàm sinh của một dãy, chẳng hạn dãy 1, 2, 3,...</li>
+  </ol>
+ </li>
  <li></li>
  <li></li>
  <li><b>(Mã hóa Rabin)</b>
