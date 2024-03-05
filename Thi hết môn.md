@@ -48,11 +48,21 @@
 
 # Phần bài tập (6-7đ)
 <ol>
- <li>
+ <li><b>(Chương 8)</b>
+  Lập và xác định hàm sinh của một dãy $\left( {{a_n}} \right)_{n \ge 0}$, chẳng hạn dãy 1, 2, 3,...
+ </li>
+ 
+ <li><b>(Chương 8)</b>
+  Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
   <ol>
-    <li>Lập và xác định hàm sinh của một dãy, chẳng hạn dãy 1, 2, 3,...</li>
+   <li>Tính $a_3$</li>
+   <li>Xác định $a_n$</li>
   </ol>
  </li>
+
+ <li><b>(Chương 8)</b>
+ </li>
+ 
  <li></li>
  <li></li>
  <li><b>(Mã hóa Rabin)</b>
