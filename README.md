@@ -8,7 +8,7 @@
 
 
 # Chú ý:
-   * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 day** trước  buổi học / kiểm tra / thi
+   * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 ngày** trước  buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để xem tiến độ học / kiểm tra / thi
    * Link tải
 <table align="center">
