@@ -37,6 +37,13 @@
    <li>Minh họa thuật toán với một dãy cụ thể cỡ $n$ từ 10 đến 16</li>
   </ol>
  </li>
+
+ <li><b>(Chương 9, số Catalan)</b>
+  <ol>
+   <li>Liệt kê các cách tính tích $a_0 a_1 a_2\cdots a_n$ bằng cách đặt các dấu ngoặc, với $n = 2, 3$</li>
+   <li>Đặt $C_n$ là số cách tính tích $a_0 a_1 a_2\cdots a_n$. Lập hệ thức đệ quy, và dùng tích chập các hàm sinh để giải $C_n$</li>
+  </ol>
+ </li>
 </ol>
   * Một số bài tập **kinh điển** trong đề thi đã được cố định sẵn, sinh viên cần **học thuộc** cách trình bày / chứng minh
     + Ký hiệu số **Catalan** $c_n$ là số cách tính tích các ma trận $A_0 A_1 A_2\ldots A_n$. Lập hệ thức đệ quy cho dãy $(c_n)$ và dùng phương pháp hàm sinh để giải $c_n$
