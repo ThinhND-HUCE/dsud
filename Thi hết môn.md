@@ -51,7 +51,15 @@
  <li></li>
  <li></li>
  <li></li>
- <li></li>
- <li></li>
+ <li><b>(Mã hóa Rabin)</b>
+  <ol>
+   <li>Số hóa tin nhắn bằng mã Cipher / ASCII thành $M$. Với khóa công khai $n$, tìm tin nhắn mã hóa $N$</li>
+   <li>Biết tin nhắn mã hóa $N$. Với khóa bí mật $p$ và $q$, giải mã $N$ và cho biết tin nhắn gốc theo mã Cipher / ASCII là gì?</li>
+  </ol>
+ </li>
+ <li><b>(Mã hóa RSA)</b>
+   <li>Số hóa tin nhắn bằng mã Cipher / ASCII thành $M$. Với khóa công khai $n$ và $e$, tìm tin nhắn mã hóa $N$</li>
+   <li>Cho tin nhắn mã hóa $N$. Với khóa bí mật $\varPhi(n)$, kết hợp với khóa công khai $n$ và $e$, giải mã $N$ và cho biết tin nhắn gốc theo mã Cipher / ASCII là gì?</li>
+ </li>
 </ol>
 
