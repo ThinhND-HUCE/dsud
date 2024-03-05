@@ -60,7 +60,20 @@
   </ol>
  </li>
 
+<li><b>(Chương 8)</b>
+  Lập và xác định hàm sinh mũ của một dãy $\left( {{a_n}} \right)_{n \ge 0}$, chẳng hạn dãy 1, 2, 3,...
+ </li>
+ 
  <li><b>(Chương 8)</b>
+  Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh mũ bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
+  <ol>
+   <li>Tính $a_3$</li>
+   <li>Xác định $a_n$</li>
+  </ol>
+ </li>
+
+ <li><b>(Chương 8)</b>
+  
  </li>
  
  <li></li>
