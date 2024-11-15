@@ -1,5 +1,10 @@
+# Thông báo:
+* Ngày 15/11, LOPNV33,chuyển sang phòng 206H1
+* Link ghi lịch bận của sinh viên DQT47 (kỳ I / 2024-2025):
+https://docs.google.com/spreadsheets/d/1fJ6rpLsrCSxOvPPIiFHgKWpkZXzw0dPoK5tyyGr4tiw/edit?usp=sharing
+
 # Thông báo lịch thi lớp DQT
-* **Thời gian**: thứ 6, 8/3/2024, 18h phát đề
+* **Thời gian**: (chưa có)
 * **Địa điểm**: bộ môn Toán ứng dụng
 * **Hình thức**:
   + Thi tự luận
