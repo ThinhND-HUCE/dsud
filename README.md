@@ -1,4 +1,5 @@
 # Thông báo:
+* Ngày 15/11, LOPNV33,chuyển sang phòng 206H1
 * Link ghi lịch bận của sinh viên DQT47 (kỳ I / 2024-2025):
 https://docs.google.com/spreadsheets/d/1fJ6rpLsrCSxOvPPIiFHgKWpkZXzw0dPoK5tyyGr4tiw/edit?usp=sharing
 
