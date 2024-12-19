@@ -1,16 +1,7 @@
 # Thông báo:
-* Ngày 15/11, LOPNV33,chuyển sang phòng 206H1
-* Link ghi lịch bận của sinh viên DQT47 (kỳ I / 2024-2025):
-https://docs.google.com/spreadsheets/d/1fJ6rpLsrCSxOvPPIiFHgKWpkZXzw0dPoK5tyyGr4tiw/edit?usp=sharing
-
-# Thông báo lịch thi lớp DQT
-* **Thời gian**: (chưa có)
-* **Địa điểm**: bộ môn Toán ứng dụng
-* **Hình thức**:
-  + Thi tự luận
-  + Sinh viên mang máy tính cá nhân, được dùng phần mềm theo chỉ định của giảng viên phụ trách
-  + Không được sử dụng tài liệu (kể cả trên máy tính)
-
+* Lịch thi lớp LOPNV31 (đã có trên eoffice):
+  + Thời gian: tiết 7-9 thứ 6 ngày 19/12/2024
+  + Địa điểm: 512H1
 
 # Chú ý:
    * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 ngày** trước  buổi học / kiểm tra / thi
