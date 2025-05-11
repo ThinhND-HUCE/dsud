@@ -73,7 +73,7 @@
     </ol>
   </li>
  
-  <li><b>(Chương 8)</b>
+  <li>
     Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy có hàm sinh mũ $f\left( x \right) = \sqrt {1 - 2x} $.
     <ol>
       <li>(Python) Tính $a_3$</li>
@@ -81,11 +81,29 @@
     </ol>
   </li>
 
- <li><b>(Chương 9)</b>
-  Giải hệ thức đệ quy $a_n = 3 a_{n-1} - 2 a_{n-2} + n$ với $a_0 = -1$, $a_1 = 2$
+ <li><i>(Đánh giá độ phức tạp của thuật toán đệ quy)</i>
+   Cho chương trình đệ quy xác định dãy $f_n$, với $n \in \Bbb N$
+<pre>
+def f(n):
+    if n == 0:
+        return -1
+    if n == 1:
+        return 2
+    x = f(n-1)
+    for i in range(6):
+        x = x + f(n-2)
+    return x
+</pre>
+   <ol>
+     <li>(Python) Xác định $f_2, f_3, f_4$</li>
+     <li>Xác định hệ thức đệ quy cho dãy $\{f_n\}$</li>
+     Đặt $a_n$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $f_n$
+     <li>Xác định hệ thức đệ quy cho dãy $\{a_n\}$</li>
+     <li>(Python) Giải hệ thức đệ quy để xác định $a_n$</li>
+   </ol>
  </li>
 
- <li><b>(Chương 9)</b>
+ <li><i>(Đánh giá độ phức tạp của thuật toán chia để trị)</i>
   Giải hệ thức chia để trị $f\left( n \right) = 2f\left( {\dfrac{n}{3}} \right) + {n^2}$ với $f(1) = 4$
  </li>
  
