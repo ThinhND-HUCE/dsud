@@ -51,7 +51,11 @@
 # Phần bài tập (6-7đ, 2-3 câu)
 <ol>
   <li>
-    Lập công thức, và xác định hàm sinh (bằng Python) của một dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, 4, 9, 16, 25,...
+    <ol>
+      <li>Lập công thức của hàm sinh dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, 4, 9, 16, 25,...</li>
+      <li>(Python) Tính hàm sinh trên</li>
+    </ol>
+    
   </li>
  
  <li><b>(Chương 8)</b>
