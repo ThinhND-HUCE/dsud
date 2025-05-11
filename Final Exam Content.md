@@ -126,7 +126,7 @@ def u(n):
   </li>
 
   <li>
-    Giải hệ phương trình đồng dư
+    Giải hệ phương trình đồng dư<br>
     $x \equiv 1 \pmod 2$
   </li>
  
