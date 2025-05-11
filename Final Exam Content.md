@@ -20,12 +20,16 @@
          <li>Lập bảng tính $a(n, r)$ với $0\le n, r \le 5$</li>
        </ol>
      </li>
-     <li>Bằng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
+     <li>Áp dụng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
    </ol>
  </li>
  
  <li>
-  Dùng hàm sinh đếm số phân hạng của số nguyên dương $n$
+   <ol>
+     <li>Định nghĩa phân hạng của một số nguyên dương</li>
+     <li>Liệt kê các phân hạng của 2, 3, và 4</li>
+     <li>Áp dụng phương pháp hàm sinh, đếm số phân hạng của số nguyên dương $n$</li>
+   </ol>
  </li>
  
  <li>
