@@ -10,7 +10,7 @@
 
 # Phần lý thuyết (học thuộc, 2-3đ)
 <ol>
- <li><b>(Chương 8, ví dụ 8.8)</b>
+ <li>
   Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật
  </li>
  
