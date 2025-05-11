@@ -8,7 +8,7 @@
   + Thanh điều khiển chỉ có duy nhất biểu tượng VS Code (**bỏ ghim** tất cả các ứng dụng không liên quan)
   + Trên thanh thông báo phải có biểu tượng **wifi** đang ở trạng thái **ngắt kết nối**
 
-# Phần lý thuyết (học thuộc, 2-3đ, chọn 1 câu, bỏ câu 3)
+# Phần lý thuyết (học thuộc, 2-3đ, chọn 1 câu)
 <ol>
  <li>
    <ol>
@@ -82,7 +82,7 @@
   </li>
 
  <li><i>(Đánh giá độ phức tạp của thuật toán đệ quy)</i>
-   Cho chương trình đệ quy xác định dãy $f_n$, với $n \in \Bbb N$
+   Cho thuật toán đệ quy xác định dãy $f_n$, với $n \in \Bbb N$
 <pre>
 def f(n):
     if n == 0:
@@ -103,9 +103,27 @@ def f(n):
    </ol>
  </li>
 
- <li><i>(Đánh giá độ phức tạp của thuật toán chia để trị)</i>
-  Giải hệ thức chia để trị $f\left( n \right) = 2f\left( {\dfrac{n}{3}} \right) + {n^2}$ với $f(1) = 4$
- </li>
+  <li><i>(Đánh giá độ phức tạp của thuật toán chia để trị)</i>
+    Cho thuật toán đệ quy xác định dãy $u_n$, với $n \in \Bbb N$
+<pre>
+def u(n):
+    if n == 0:
+        return -1
+    x = 2
+    for i in range(3):
+        x = x + u(n // 2)
+    for i in range(n):
+        x = x + 1
+    return x
+</pre>
+  <ol>
+   <li>(Python) Xác định $u_1, u_2, u_3, u_4$</li>
+     <li>Xác định hệ thức đệ quy cho dãy $\{u_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
+     Đặt $f(n)$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $u_n$
+     <li>Xác định hệ thức chia để trị đối với $f(n)$</li>
+     <li>(Python) Giải hệ thức chia để trị để xác định $f(n)$</li>
+   </ol>
+  </li>
  
  <li><b>(Mã hóa Rabin)</b>
   <ol>
