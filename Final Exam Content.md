@@ -127,7 +127,7 @@ def u(n):
 
   <li>
     Giải hệ phương trình đồng dư
-    $x \equiv 1 \bmod 2$
+    $x \equiv 1 \pmod 2$
   </li>
  
   <li><b>(Mã hóa Rabin)</b>
