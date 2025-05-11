@@ -120,7 +120,7 @@ def u(n):
    <li>(Python) Xác định $u_1, u_2, u_3, u_4$</li>
      <li>Xác định hệ thức đệ quy cho dãy $\{u_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
      Đặt $f(n)$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $u_n$
-     <li>Xác định hệ thức chia để trị đối với $f(n)$</li>
+     <li>Xác định hệ thức chia để trị cho $f(n)$</li>
      <li>(Python) Giải hệ thức chia để trị để xác định $f(n)$</li>
    </ol>
   </li>
@@ -139,3 +139,7 @@ def u(n):
  </li>
 </ol>
 
+
+# Chú ý
+  * Phần lý thuyết bỏ câu 3
+  * Phần bài tập bỏ các ý liên quan đến phương pháp mã hóa và giải mã Rabin
