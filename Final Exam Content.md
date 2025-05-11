@@ -31,7 +31,11 @@
  </li>
  
  <li>
-  Dùng hàm sinh liệt kê các phân hạng đối xứng của số nguyên dương $n$
+   <ol>
+     <li>Định nghĩa phân hạng của một số nguyên dương</li>
+     <li>Liệt kê các phân hạng đối xứng của 3, 4, và 5</li>
+     <li>Áp dụng phương pháp hàm sinh, đếm số phân hạng đối xứng của số nguyên dương $n$</li>
+   </ol>
  </li>
  
  <li>
