@@ -1,7 +1,12 @@
-# Hình thức:
-  * Tự luận
-  * _Thời gian:_ 60-75 phút
-  * Không dùng tài liệu, được sử dụng phần mềm theo chỉ định trên máy tính của phòng máy
+* **Hình thức:** tự luận
+* **Thời gian:** 90 phút
+* **Không** sử dụng tài liệu
+* Tính toán, lập trình bằng **Python** qua **VS Code**
+* **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang **máy tính**, **sạc**, **ổ cắm**:
+  + Trên máy tính phải **xóa** toàn bộ các tệp liên quan đến môn học
+  + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
+  + Thanh điều khiển chỉ có duy nhất biểu tượng VS Code (**bỏ ghim** tất cả các ứng dụng không liên quan)
+  + Trên thanh thông báo phải có biểu tượng **wifi** đang ở trạng thái **ngắt kết nối**
 
 # Phần lý thuyết (học thuộc, 2-3đ)
 <ol>
