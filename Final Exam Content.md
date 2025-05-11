@@ -8,20 +8,16 @@
   + Thanh điều khiển chỉ có duy nhất biểu tượng VS Code (**bỏ ghim** tất cả các ứng dụng không liên quan)
   + Trên thanh thông báo phải có biểu tượng **wifi** đang ở trạng thái **ngắt kết nối**
 
-# Phần lý thuyết (học thuộc, 2-3đ)
+# Phần lý thuyết (học thuộc, 2-3đ, 1 câu)
 <ol>
  <li>
    <ol>
      <li>Định nghĩa tổ hợp lặp</li>
      <li>Liệt kê các tổ hợp lặp chập 4 của 3 loại vật $A, B, C$</li>
      Ký hiệu $a(n, r)$ là số tổ hợp lặp chập $r$ từ $n$ vật
-     <li>
-       <ol>
-         <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
-         <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
-         <li>Lập bảng tính $a(n, r)$ với $0\le n, r \le 5$</li>
-       </ol>
-     </li>
+     <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
+     <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
+     <li>Lập bảng tính $a(n, r)$ với $0\le n, r \le 5$</li>
      <li>Áp dụng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
    </ol>
  </li>
