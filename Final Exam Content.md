@@ -96,7 +96,7 @@ def f(n):
 </pre>
    <ol>
      <li>(Python) Xác định $f_2, f_3, f_4$</li>
-     <li>Xác định hệ thức đệ quy cho dãy $\{f_n\}$</li>
+     <li>Xác định hệ thức đệ quy cho dãy $\{f_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
      Đặt $a_n$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $f_n$
      <li>Xác định hệ thức đệ quy cho dãy $\{a_n\}$</li>
      <li>(Python) Giải hệ thức đệ quy để xác định $a_n$</li>
