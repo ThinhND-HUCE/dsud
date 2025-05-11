@@ -69,7 +69,7 @@
   <li>
     <ol>
       <li>Lập công thức của hàm sinh mũ của dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, -2, 3, -4, 5,...</li>
-      <li>(Python) Tính hàm sinh mũ ở trên/li>
+      <li>(Python) Tính hàm sinh mũ ở trên</li>
     </ol>
   </li>
  
