@@ -1,20 +1,18 @@
 # Thông báo:
-* Ngày 15/11, LOPNV33,chuyển sang phòng 206H1
-* Link ghi lịch bận của sinh viên DQT47 (kỳ I / 2024-2025):
-https://docs.google.com/spreadsheets/d/1fJ6rpLsrCSxOvPPIiFHgKWpkZXzw0dPoK5tyyGr4tiw/edit?usp=sharing
+* 
 
-# Thông báo lịch thi lớp DQT
-* **Thời gian**: (chưa có)
-* **Địa điểm**: bộ môn Toán ứng dụng
-* **Hình thức**:
-  + Thi tự luận
-  + Sinh viên mang máy tính cá nhân, được dùng phần mềm theo chỉ định của giảng viên phụ trách
-  + Không được sử dụng tài liệu (kể cả trên máy tính)
-
+# Thi:
+  * **Hình thức:** tự luận
+  * **Thời gian:** 75 phút
+  * **Không** sử dụng tài liệu
+  * Tính toán, lập trình bằng **Python** qua **VS Code**
+  * **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang máy tính, sạc, ổ cắm:
+    + Trên máy tính phải xóa toàn bộ các tệp liên quan đến môn học
+    + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
 
 # Chú ý:
    * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 ngày** trước  buổi học / kiểm tra / thi
-   * Đọc kỹ **đề cương** để xem tiến độ học / kiểm tra / thi
+   * Đọc kỹ **đề cương** học phần để xem tiến độ học / kiểm tra / thi
    * Link tải
 <table align="center">
   <tr>
