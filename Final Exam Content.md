@@ -58,10 +58,10 @@
     
   </li>
  
- <li><b>(Chương 8)</b>
-  Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
+ <li>
+  Đặt $\{a_n\}_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
   <ol>
-   <li>Tính $a_3$</li>
+   <li>(Python) Tính $a_3$</li>
    <li>Xác định $a_n$</li>
   </ol>
  </li>
