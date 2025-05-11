@@ -13,7 +13,9 @@
  <li>
    <ol>
      <li>Định nghĩa tổ hợp lặp</li>
-     <li>Ký hiệu $a(n, r)$ là số tổ hợp lặp chập $r$ từ $n$ vật. 
+     <li>Liệt kê các tổ hợp lặp chập 4 của 3 loại vật $A, B, C$</li>
+     Ký hiệu $a(n, r)$ là số tổ hợp lặp chập $r$ từ $n$ vật
+     <li>
        <ol>
          <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
          <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
