@@ -127,7 +127,8 @@ def u(n):
 
   <li>
     Giải hệ phương trình đồng dư
-    $$11$$
+    
+    $x \equiv 1 \bmod 2$
   </li>
  
   <li><b>(Mã hóa Rabin)</b>
