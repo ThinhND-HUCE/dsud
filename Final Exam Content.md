@@ -11,7 +11,16 @@
 # Phần lý thuyết (học thuộc, 2-3đ)
 <ol>
  <li>
-  Dùng hàm sinh đếm số tổ hợp lặp, tức là số cách chọn (có lặp) $r$ vật từ $n$ vật
+   <ol>
+     <li>Định nghĩa tổ hợp lặp</li>
+     <li>Ký hiệu $a(n, r)$ là số tổ hợp lặp chập $r$ từ $n$ vật. 
+       <ol>
+         <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
+         <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
+       </ol>
+     </li>
+     <li>Bằng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
+   </ol>
  </li>
  
  <li>
