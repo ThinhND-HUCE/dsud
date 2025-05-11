@@ -51,7 +51,7 @@
 # Phần bài tập (6-7đ, 2-3 câu)
 <ol>
   <li>
-    Lập và xác định hàm sinh của một dãy $\left( {{a_n}} \right)_{n \ge 0}$, chẳng hạn dãy 1, 2, 3,...
+    Lập và xác định hàm sinh của một dãy $ \{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, 4, 9, 16, 25,...
   </li>
  
  <li><b>(Chương 8)</b>
