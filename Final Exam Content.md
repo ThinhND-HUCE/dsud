@@ -43,7 +43,7 @@
      <li>Liệt kê các cách tính tích $a_0 a_1 a_2\cdots a_n$ bằng cách đặt các dấu ngoặc, với $n = 2, 3$</li>
       Đặt $C_n$ là số cách tính tích $a_0 a_1 a_2\cdots a_n$
      <li>Lập hệ thức đệ quy cho dãy $\{C_n\}$</li>
-     <li>Áp dụng phương pháp hàm sinh để tìm $C_n$ thông qua hệ thức đệ quy trên</li>  
+     <li>Áp dụng phương pháp hàm sinh để giải hệ thức đệ quy trên</li>  
   </ol>
  </li>
 </ol>
