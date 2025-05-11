@@ -53,22 +53,25 @@
   <li>
     <ol>
       <li>Lập công thức của hàm sinh dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, 4, 9, 16, 25,...</li>
-      <li>(Python) Tính hàm sinh trên</li>
+      <li>(Python) Tính hàm sinh ở trên</li>
     </ol>
     
   </li>
  
- <li>
-  Đặt $\{a_n\}_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
-  <ol>
-   <li>(Python) Tính $a_3$</li>
-   <li>Xác định $a_n$</li>
-  </ol>
- </li>
+  <li>
+    Đặt $\{a_n\}_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
+    <ol>
+      <li>(Python) Tính $a_3$</li>
+      <li>Xác định $a_n$</li>
+    </ol>
+  </li>
 
-<li><b>(Chương 8)</b>
-  Lập và xác định hàm sinh mũ của một dãy $\left( {{a_n}} \right)_{n \ge 0}$, chẳng hạn dãy 1, 2, 3,...
- </li>
+  <li>
+    <ol>
+      <li>Lập công thức của hàm sinh mũ của dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, -2, 3, -4, 5,...</li>
+      <li>(Python) Tính hàm sinh mũ ở trên/li>
+    </ol>
+  </li>
  
  <li><b>(Chương 8)</b>
   Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh mũ ứng với $f\left( x \right) = \sqrt {1 - 2x} $.
