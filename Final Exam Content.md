@@ -17,6 +17,7 @@
        <ol>
          <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
          <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
+         <li>Lập bảng tính $a(n, r)$ với $0\le n, r \le 5$</li>
        </ol>
      </li>
      <li>Bằng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
