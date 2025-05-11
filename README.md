@@ -1,7 +1,7 @@
 # Thông báo:
 * Lịch học + kiểm tra bù thi lớp 68CS1 + 2:
   + Thời gian: tiết 7-9 chủ nhật 11/5/2025
-  + Địa điểm: sinh viên vào xem trước giờ học
+  + Địa điểm: **306H1**
 
 # Chú ý:
    * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 ngày** trước  buổi học / kiểm tra / thi
