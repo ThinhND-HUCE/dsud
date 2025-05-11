@@ -2,13 +2,15 @@
 * 
 
 # Thi:
-  * **Hình thức:** tự luận
-  * **Thời gian:** 75 phút
-  * **Không** sử dụng tài liệu
-  * Tính toán, lập trình bằng **Python** qua **VS Code**
-  * **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang máy tính, sạc, ổ cắm:
-    + Trên máy tính phải xóa toàn bộ các tệp liên quan đến môn học
-    + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
+* **Hình thức:** tự luận
+* **Thời gian:** 75 phút
+* **Không** sử dụng tài liệu
+* Tính toán, lập trình bằng **Python** qua **VS Code**
+* **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang **máy tính**, **sạc**, **ổ cắm**:
+  + Trên máy tính phải **xóa** toàn bộ các tệp liên quan đến môn học
+  + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
+  + Thanh điều khiển chỉ có duy nhất biểu tượng VS Code (**bỏ ghim** tất cả các ứng dụng không liên quan)
+  + Trên thanh thông báo phải có biểu tượng **wifi** đang ở trạng thái **ngắt kết nối**
 
 # Chú ý:
    * Sinh viên vào xem thông tin cập nhật, đặc biệt **01 ngày** trước  buổi học / kiểm tra / thi
