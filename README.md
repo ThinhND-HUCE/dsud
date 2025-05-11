@@ -6,8 +6,8 @@
   * **Thời gian:** 75 phút
   * **Không** sử dụng tài liệu
   * Tính toán, lập trình bằng **Python** qua **VS Code**
-  * **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang máy tính, sạc, ổ cắm:
-    + Trên máy tính phải xóa toàn bộ các tệp liên quan đến môn học
+  * **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang **máy tính**, **sạc**, **ổ cắm**:
+    + Trên máy tính phải **xóa** toàn bộ các tệp liên quan đến môn học
     + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
 
 # Chú ý:
