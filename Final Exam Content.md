@@ -48,11 +48,11 @@
  </li>
 </ol>
 
-# Phần bài tập (6-7đ)
+# Phần bài tập (6-7đ, 2-3 câu)
 <ol>
- <li><b>(Chương 8)</b>
-  Lập và xác định hàm sinh của một dãy $\left( {{a_n}} \right)_{n \ge 0}$, chẳng hạn dãy 1, 2, 3,...
- </li>
+  <li>
+    Lập và xác định hàm sinh của một dãy $\left( {{a_n}} \right)_{n \ge 0}$, chẳng hạn dãy 1, 2, 3,...
+  </li>
  
  <li><b>(Chương 8)</b>
   Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
