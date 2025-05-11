@@ -127,7 +127,7 @@ def u(n):
 
   <li>
     Giải hệ phương trình đồng dư<br>
-    $x \equiv 1 \pmod 2,\quad x \equiv -3 \pmod 5, x \equiv 4 \pmod 7$
+    $x \equiv 1 \pmod 2,\quad x \equiv -3 \pmod 5,\quad x \equiv 4 \pmod 7$
   </li>
  
   <li><b>(Mã hóa Rabin)</b>
