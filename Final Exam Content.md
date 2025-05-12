@@ -1,5 +1,5 @@
 * **Hình thức:** tự luận
-* **Thời gian:** 90 phút
+* **Thời gian:** 75 phút
 * **Không** sử dụng tài liệu
 * Tính toán, lập trình bằng **Python** qua **VS Code**
 * **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang **máy tính**, **sạc**, **ổ cắm**:
