@@ -21,7 +21,15 @@
       <li>Áp dụng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
     </ol>
   </li>
- 
+
+  <li>
+    <ol>
+      <li>Liệt kê nghiệm nguyên không âm của phương trình $c_1 + c_2 + c_3 = 4$.</li>
+      <li>Áp dụng phương pháp hàm sinh để đếm số nghiệm nguyên không âm của phương trình trên.</li>
+      <li>Tổng quát, áp dụng phương pháp hàm sinh để đếm số nghiệm nguyên không âm của phương trình $c_1 + c_2 + \cdots + c_n = r$.</li>
+    </ol>
+  </li>
+
   <li>
     <ol>
       <li>Định nghĩa phân hạng của một số nguyên dương</li>
