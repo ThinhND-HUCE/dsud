@@ -10,42 +10,42 @@
 
 # Phần lý thuyết (học thuộc, 2-3đ, chọn 1 câu)
 <ol>
- <li>
-   <ol>
-     <li>Định nghĩa tổ hợp lặp</li>
-     <li>Liệt kê các tổ hợp lặp chập 4 của 3 loại vật $A, B, C$</li>
-     Ký hiệu $a(n, r)$ là số tổ hợp lặp chập $r$ từ $n$ vật
-     <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
-     <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
-     <li>Lập bảng tính $a(n, r)$ với $0\le n, r \le 5$</li>
-     <li>Áp dụng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
-   </ol>
- </li>
+  <li>
+    <ol>
+      <li>Định nghĩa tổ hợp lặp</li>
+      <li>Liệt kê các tổ hợp lặp chập 4 của 3 loại vật $A, B, C$</li>
+      Ký hiệu $a(n, r)$ là số tổ hợp lặp chập $r$ từ $n$ vật
+      <li>Chứng minh $a(n, r) = a(n, r-1) + a(n-1, r)$ trong đó $n \ge 1$ và $r \ge 1$</li>
+      <li>Xác định $a(n, 0)$ với $n \ge 0$, và $a(0, r)$ với $r > 0$</li>
+      <li>Lập bảng tính $a(n, r)$ với $0\le n, r \le 5$</li>
+      <li>Áp dụng phương pháp hàm sinh, chứng minh $a(n, r) = \binom{n+r-1}{r}$</li>
+    </ol>
+  </li>
  
- <li>
-   <ol>
-     <li>Định nghĩa phân hạng của một số nguyên dương</li>
-     <li>Liệt kê các phân hạng của 2, 3, và 4</li>
-     <li>Áp dụng phương pháp hàm sinh, đếm số phân hạng của số nguyên dương $n$</li>
+  <li>
+    <ol>
+      <li>Định nghĩa phân hạng của một số nguyên dương</li>
+      <li>Liệt kê các phân hạng của 2, 3, và 4</li>
+      <li>Áp dụng phương pháp hàm sinh, đếm số phân hạng của số nguyên dương $n$</li>
    </ol>
- </li>
+  </li>
  
- <li>
-   <ol>
-     <li>Định nghĩa phân hạng của một số nguyên dương</li>
-     <li>Liệt kê các phân hạng đối xứng của 3, 4, và 5</li>
-     <li>Áp dụng phương pháp hàm sinh, đếm số phân hạng đối xứng của số nguyên dương $n$</li>
-   </ol>
- </li>
+  <li>
+    <ol>
+      <li>Định nghĩa phân hạng của một số nguyên dương</li>
+      <li>Liệt kê các phân hạng đối xứng của 3, 4, và 5</li>
+      <li>Áp dụng phương pháp hàm sinh, đếm số phân hạng đối xứng của số nguyên dương $n$</li>
+    </ol>
+  </li>
  
- <li>
-   <ol>
-     <li>Liệt kê các cách tính tích $a_0 a_1 a_2\cdots a_n$ bằng cách đặt các dấu ngoặc, với $n = 2, 3$</li>
+  <li>
+    <ol>
+      <li>Liệt kê các cách tính tích $a_0 a_1 a_2\cdots a_n$ bằng cách đặt các dấu ngoặc, với $n = 2, 3$</li>
       Đặt $C_n$ là số cách tính tích $a_0 a_1 a_2\cdots a_n$
-     <li>Lập hệ thức đệ quy cho dãy $\{C_n\}$</li>
-     <li>Áp dụng phương pháp hàm sinh để giải hệ thức đệ quy trên</li>  
-  </ol>
- </li>
+      <li>Lập hệ thức đệ quy cho dãy $\{C_n\}$</li>
+      <li>Áp dụng phương pháp hàm sinh để giải hệ thức đệ quy trên</li>  
+    </ol>
+  </li>
 </ol>
 
 # Phần bài tập (6-7đ, 2-3 câu)
@@ -53,7 +53,7 @@
   <li>
     <ol>
       <li>Lập công thức của hàm sinh dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, 4, 9, 16, 25,...</li>
-      <li>(Python) Tính hàm sinh ở trên</li>
+      <li><i>(Trả lời nhanh)</i> Tính hàm sinh ở trên</li>
     </ol>
     
   </li>
@@ -61,7 +61,7 @@
   <li>
     Đặt $\{a_n\}_{n \ge 0}$ là dãy sinh bởi hàm $f\left( x \right) = \sqrt {1 - 2x} $.
     <ol>
-      <li>(Python) Tính $a_3$</li>
+      <li><i>(Trả lời nhanh)</i> Tính $a_3$</li>
       <li>Xác định $a_n$</li>
     </ol>
   </li>
@@ -69,14 +69,14 @@
   <li>
     <ol>
       <li>Lập công thức của hàm sinh mũ của dãy $\{a_n\}_{n \ge 0}$, chẳng hạn dãy 1, -2, 3, -4, 5,...</li>
-      <li>(Python) Tính hàm sinh mũ ở trên</li>
+      <li><i>(Trả lời nhanh)</i> Tính hàm sinh mũ ở trên</li>
     </ol>
   </li>
  
   <li>
     Đặt $\left( {{a_n}} \right)_{n \ge 0}$ là dãy có hàm sinh mũ $f\left( x \right) = \sqrt {1 - 2x} $.
     <ol>
-      <li>(Python) Tính $a_3$</li>
+      <li><i>(Trả lời nhanh)</i> Tính $a_3$</li>
       <li>Xác định $a_n$</li>
     </ol>
   </li>
@@ -95,11 +95,11 @@ def f(n):
     return x
 </pre>
    <ol>
-     <li>(Python) Xác định $f_2, f_3, f_4$</li>
+     <li><i>(Trả lời nhanh)</i> Xác định $f_2, f_3, f_4$</li>
      <li>Xác định hệ thức đệ quy cho dãy $\{f_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
      Đặt $a_n$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $f_n$
      <li>Xác định hệ thức đệ quy cho dãy $\{a_n\}$</li>
-     <li>(Python) Giải hệ thức đệ quy để xác định $a_n$</li>
+     <li><i>(Trả lời nhanh)</i> Giải hệ thức đệ quy để xác định $a_n$</li>
    </ol>
  </li>
 
@@ -117,11 +117,11 @@ def u(n):
     return x
 </pre>
   <ol>
-   <li>(Python) Xác định $u_1, u_2, u_3, u_4$</li>
+   <li><i>(Trả lời nhanh)</i> Xác định $u_1, u_2, u_3, u_4$</li>
      <li>Xác định hệ thức đệ quy cho dãy $\{u_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
      Đặt $f(n)$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $u_n$
      <li>Xác định hệ thức chia để trị cho $f(n)$</li>
-     <li>(Python) Giải hệ thức chia để trị để xác định $f(n)$</li>
+     <li><i>(Trả lời nhanh)</i> Giải hệ thức chia để trị để xác định $f(n)$</li>
    </ol>
   </li>
 
@@ -147,5 +147,5 @@ def u(n):
 
 
 # Chú ý
-  * Phần lý thuyết bỏ câu 3
+  * Phần lý thuyết bỏ câu 4
   * Phần bài tập bỏ các ý liên quan đến phương pháp mã hóa và giải mã Rabin
