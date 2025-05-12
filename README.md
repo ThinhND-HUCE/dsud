@@ -1,5 +1,7 @@
 # Thông báo:
-* **68CS3**: lỗi giải mã RSA trong bài học cuối là do $n < M$. Cần lưu ý $M$ là phần tử đại diện chính quy cho lớp thuộc vành $\Bbb Z_n$ nên bắt buộc $M < n$
+* **68CS3**:
+    + lỗi giải mã RSA trong bài học cuối là do $n < M$. Cần lưu ý $M$ là phần tử đại diện chính quy cho lớp thuộc vành $\Bbb Z_n$ nên bắt buộc $M < n$
+    + Tự đọc thêm phần định lý phần dư Trung Quốc
 
 
 # Thi:
