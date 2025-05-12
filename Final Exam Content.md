@@ -92,22 +92,22 @@
  <li><i>(Đánh giá độ phức tạp của thuật toán đệ quy)</i>
    Cho thuật toán đệ quy xác định dãy $f_n$, với $n \in \Bbb N$
 <pre>
-def f(n):
+def a(n):
     if n == 0:
         return -1
     if n == 1:
         return 2
-    x = f(n-1)
+    x = a(n-1)
     for i in range(6):
-        x = x + f(n-2)
+        x = x + a(n-2)
     return x
 </pre>
    <ol>
      <li><i>(Trả lời nhanh)</i> Xác định $f_2, f_3, f_4$</li>
      <li>Xác định hệ thức đệ quy cho dãy $\{f_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
-     Đặt $a_n$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $f_n$
-     <li>Xác định hệ thức đệ quy cho dãy $\{a_n\}$</li>
-     <li><i>(Trả lời nhanh)</i> Giải hệ thức đệ quy để xác định $a_n$</li>
+     Đặt $f_n$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $a_n$
+     <li>Xác định hệ thức đệ quy cho dãy $\{f_n\}$</li>
+     <li><i>(Trả lời nhanh)</i> Giải hệ thức đệ quy để xác định $f_n$. Từ đó cho biết độ phức tạp của thuật toán.</li>
    </ol>
  </li>
 
