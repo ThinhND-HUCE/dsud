@@ -114,22 +114,22 @@ def f(n):
   <li><i>(Đánh giá độ phức tạp của thuật toán chia để trị)</i>
     Cho thuật toán đệ quy xác định dãy $u_n$, với $n \in \Bbb N$
 <pre>
-def u(n):
+def a(n):
     if n == 0:
         return -1
     x = 2
     for i in range(3):
-        x = x + u(n // 2)
+        x = x + a(n // 2)
     for i in range(n):
         x = x + 1
     return x
 </pre>
   <ol>
-   <li><i>(Trả lời nhanh)</i> Xác định $u_1, u_2, u_3, u_4$</li>
-     <li>Xác định hệ thức đệ quy cho dãy $\{u_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
-     Đặt $f(n)$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $u_n$
+   <li><i>(Trả lời nhanh)</i> Xác định $a_1, a_2, a_3, a_4$</li>
+     <li>Xác định hệ thức đệ quy cho dãy $\{a_n\}$. Từ đó kiểm chứng kết quả ở ý (i)</li>
+     Đặt $f(n)$ là số phép toán (số học, so sánh, gán) mà thuật toán dùng để tính $a_n$
      <li>Xác định hệ thức chia để trị cho $f(n)$</li>
-     <li><i>(Trả lời nhanh)</i> Giải hệ thức chia để trị để xác định $f(n)$</li>
+     <li><i>(Trả lời nhanh)</i> Giải hệ thức chia để trị để xác định $f(n)$. Từ đó cho biết độ phức tạp của thuật toán</li>
    </ol>
   </li>
 
