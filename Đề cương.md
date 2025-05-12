@@ -3,7 +3,7 @@
 Đại số hiện đại ứng dụng, _Mã:_ Toán 302
 
 ## 2. Số tín chỉ:
-3
+3 (rút xuống 2)
 
 ## 3. Giảng viên:
 Giảng viên Bộ môn Toán ứng dụng
